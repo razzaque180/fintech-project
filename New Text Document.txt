@@ -1,2 +1,14 @@
 I am Abdul I am from bihar 
 I am a software engineer working in bengaluru
+
+
+class A{
+
+
+public static void main(String args[]){
+
+
+System.out.println("hello");
+}
+
+}
